@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+body {
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 3.12rem;
+    opacity: 1;
+    padding: .5rem;
+}
+
+.iguana_grande {
+    width: 100%;
+    height: 45.43rem;
+    object-fit: fill;
+}
+
+.container img {
+    width: 25%;
+    position: absolute;
+    top: -3vh;
+    left: 53vw;
+}
+
+.container {
+    position: relative;
+}
+
+.description {
+    width: 36%;
+    opacity: 1;
+    padding-left: 9%;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 2.5rem;
+    margin-bottom: 1.5em;
+}
+
+section {
+    padding: 5em;
+}
+
+ul.caracteristicas li {
+    display: inline-block;
+    width: 18%;
+    padding-left: 7rem;
+    text-align: center;
+    font-size: 1.56rem;
+    background-color: #1E1A13;
+    opacity: 98%;
+    margin-left: 5vh;
+    line-height: 7vh;
+
+}
+
+.background {
+    background-color: #1E1A13;
+}
+
+.fotitos {
+    display: inline;
+    width: 26vw;
+    height: 29vh;
+    object-fit: fill;
+    opacity: 100%;
+    padding-left: 1vh;
+
+}
+
+.iguanas {
+    margin-left: 7vh;
+}
+
+footer {
+    background-color: #1E1A13;
+    opacity: 94%;
+    height: 9vh;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+footer p {
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+a {
+    text-decoration: none;
+}
